@@ -1,0 +1,12 @@
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
