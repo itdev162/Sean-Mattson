@@ -1,0 +1,9 @@
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\CODE\ITDEV162-ClientServer\Sean-Mattson\Domain\obj\Debug\netstandard2.0\Domain.pdb
