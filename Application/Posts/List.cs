@@ -25,16 +25,5 @@ namespace Application.Posts
                 return this.context.Posts.ToListAsync();
             }
         }
-
-
-
-
-
     }
-
-
-
-
-
-
 }

@@ -1,19 +1,17 @@
+using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Application.Posts;
 using Domain;
+using Persistence;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using Persistence;
-using System.Linq;
 
 namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-
-
     public class PostsController : ControllerBase
     {
 
